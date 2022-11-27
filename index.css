@@ -1,0 +1,17 @@
+h2 {
+    color: blue;
+}
+marquee{
+    background-color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+div {
+    position:absolute;
+    top:350px;
+    right:70px;
+
+}
+.contact {
+color: blueviolet;
+}
